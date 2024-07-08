@@ -1,0 +1,78 @@
+.top1
+{
+    position:relative;
+    text-align: center;
+    font-family: monospace;
+
+}
+
+.topimg1
+{
+    width: 25%;
+}
+
+.centeredd
+{
+    position:absolute;
+    top:75%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 50px;
+}
+
+p
+{
+    color: #ffe;
+    padding-left: 10%;
+    padding-right: 5%;
+    font-size: 24px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h2
+{
+    color: #ffe;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+a
+{
+    color: #f0f;
+    font-size: 16px;
+    font-family: system-ui;
+    padding-bottom: 10px;
+    padding-left: 15%;
+}
+
+.not-that-powerful-title
+{
+    padding-bottom: 5%;
+    background-image: url(https://pbs.twimg.com/media/GQyo5LXWIAEil-K?format=jpg&name=large);
+    background-repeat: no-repeat;
+    background-size: 30% 100%;
+    color: aqua;
+    font-size: 24px;
+    background-position: 45%;
+}
+
+body
+{
+    background-color: #222;
+}
+
+.hidden-link
+{
+    font-style: normal;
+    color: aqua;
+    text-decoration: none;
+    text-align: center;
+    padding-left: 40%;
+    padding-top: 5%;
+}
+
+
+
+
+
+
+
